@@ -4,9 +4,13 @@
 = Introduction =
 
 The excel-cdk tools construct a bridge between MS Excel and the Chemistry Development Kit (CDK) Java code tools enabling users to chemically enable existing spreadsheets which contain representations of chemical structures as SMILES strings. 
+
 Once enabled, Excel spreadsheets have easy access to CDK functionality currently including Structure Display, Substructure searching, R Group Table creation and Molecular Property calculation. Structure display is activated by directly selecting cells containing SMILES strings but also by mouse hover over chart points charting data from an enabled spreadsheet. Structures are displayed in a pop-up window using the J Chem Paint structure display applet. 
+
 Substructure searching of very large spreadsheets may be speeded up by pre-calculation of CDK fingerprints (which are stored compactly in the sheets as hex strings). In this way, substructure searching of sheets containing many tens of thousands of structures is eminently feasible. 
+
 The system requires no installation beyond file copying and, if a shared network location is provided with the necessary excel-cdk JAR/HTM and CDK JAR files, enabled spreadsheets may be shared between users, downloading the necessary support files automatically. 
+
 Code created by Syngenta Ltd and licensed under GPL v2 
 
 
