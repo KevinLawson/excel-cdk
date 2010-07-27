@@ -1,13 +1,14 @@
-#summary One-sentence summary of this page.
+#summary Excel spreadsheet to Chemistry Development Kit (CDK) bridge.
 
 = Introduction =
 
-Add your content here.
+The *excel-cdk* tools construct a bridge between the MS Excel spreadsheet and the Chemistry Development Kit (CDK) Java code tools. 
+
+This enables chemical informatics functionality created in CDK to be accessed relatively easily via Excel. A relevant example is chemical structure (2D) display, structures are simply stored as a SMILES string in an Excel column. Once the chemical features are 'enabled', then selecting a cell containing the SMILES string triggers a pop up window display the 2D structure. A further key example is substructure searching of structures within the spreadsheet. Graphs of molecular properties (e.g. AlogP and Polar Surface Area) will display the 2D structure when the mouse hovers over the graph data point. 
+
+Code created by Syngenta Ltd and licensed under GPL v2. 
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Visual Basic for Applications (VBA) code for linking to CDK Java functionality.
