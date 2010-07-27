@@ -1,4 +1,5 @@
 #summary Excel spreadsheet to Chemistry Development Kit (CDK) bridge.
+#labels Featured
 
 = Introduction =
 
