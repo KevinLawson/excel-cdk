@@ -3,11 +3,11 @@
 
 = Introduction =
 
-The *excel-cdk* tools construct a bridge between the MS Excel spreadsheet and the Chemistry Development Kit (CDK) Java code tools. 
-
-This enables chemical informatics functionality created in CDK to be accessed relatively easily via Excel. A relevant example is chemical structure (2D) display, structures are simply stored as a SMILES string in an Excel column. Once the chemical features are 'enabled', then selecting a cell containing the SMILES string triggers a pop up window display the 2D structure. A further key example is substructure searching of structures within the spreadsheet. Graphs of molecular properties (e.g. AlogP and Polar Surface Area) will display the 2D structure when the mouse hovers over the graph data point. 
-
-Code created by Syngenta Ltd and licensed under GPL v2. 
+The excel-cdk tools construct a bridge between MS Excel and the Chemistry Development Kit (CDK) Java code tools enabling users to chemically enable existing spreadsheets which contain representations of chemical structures as SMILES strings. 
+Once enabled, Excel spreadsheets have easy access to CDK functionality currently including Structure Display, Substructure searching, R Group Table creation and Molecular Property calculation. Structure display is activated by directly selecting cells containing SMILES strings but also by mouse hover over chart points charting data from an enabled spreadsheet. Structures are displayed in a pop-up window using the J Chem Paint structure display applet. 
+Substructure searching of very large spreadsheets may be speeded up by pre-calculation of CDK fingerprints (which are stored compactly in the sheets as hex strings). In this way, substructure searching of sheets containing many tens of thousands of structures is eminently feasible. 
+The system requires no installation beyond file copying and, if a shared network location is provided with the necessary excel-cdk JAR/HTM and CDK JAR files, enabled spreadsheets may be shared between users, downloading the necessary support files automatically. 
+Code created by Syngenta Ltd and licensed under GPL v2 
 
 
 = Details =
