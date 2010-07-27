@@ -3,7 +3,7 @@
 
 = Introduction =
 
-The excel-cdk tools construct a bridge between MS Excel and the Chemistry Development Kit (CDK) Java code tools enabling users to chemically enable existing spreadsheets which contain representations of chemical structures as SMILES strings. 
+The *excel-cdk* tools construct a bridge between MS Excel and the Chemistry Development Kit (CDK) Java code tools enabling users to chemically enable existing spreadsheets which contain representations of chemical structures as SMILES strings. 
 
 Once enabled, Excel spreadsheets have easy access to CDK functionality currently including Structure Display, Substructure searching, R Group Table creation and Molecular Property calculation. Structure display is activated by directly selecting cells containing SMILES strings but also by mouse hover over chart points charting data from an enabled spreadsheet. Structures are displayed in a pop-up window using the J Chem Paint structure display applet. 
 
