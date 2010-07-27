@@ -14,4 +14,4 @@ How to get started with the *excel-cdk* tools
   * Downoad the jar files for the JChemPaint applet (eg v2.4.0) into this directory
   * Open *EnableChemicalSpreadsheet.xls* and the spreadsheet you want to enable in MS Excel and select the "Setup Workbook for Structure Display and Substructure Searching" button...
 
-You might like to have a look at the Video showing the features of the system and how to use them
+You might like to have a look at the IntroductoryVideo showing the features of the system and how to use them
