@@ -1,0 +1,19 @@
+#summary How to access the introductory video for the excel-cdk tools.
+
+= Introduction =
+
+The excel-cdk tools archive (zip) file contains a shockwave-flash (swf) format video file showing some of the capabilities.
+
+
+= Details =
+
+Download archive (.zip) file
+Extract to a suitable directory, this creates a subdirectory hierarchy
+
+  KLICSS-SoftwareRelease\v1.0.0
+
+Navigate to this directory and open the following file in your web browser. 
+
+  KLICCS-Enable-SSS.htm
+   
+This should start the introductory video.
