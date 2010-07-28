@@ -11,7 +11,7 @@ The excel-cdk tools archive (zip) file contains a shockwave-flash (swf) format v
 Download archive (.zip) file
 Extract to a suitable directory, this creates a subdirectory
 
-  KLICSS-SoftwareRelease 
+  KLICSS-!SoftwareRelease 
 
 with a further subdiectory 
 
