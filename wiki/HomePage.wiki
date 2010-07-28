@@ -17,3 +17,5 @@ Code created by Syngenta Ltd and licensed under GPL v2
 = Details =
 
 Visual Basic for Applications (VBA) code for linking to CDK Java functionality.
+
+Have a look at the GettingStarted page for setup instructions
