@@ -6,13 +6,13 @@ How to get started with the *excel-cdk* tools
 
 = Details =
 
-  # Download *KLICSS-SoftwareRelease-_date_-.zip* and extract the files from it
+  # Download *KLICSS-!SoftwareRelease-_date_-.zip* and extract the files from it
   # Create a directory on the local hard drive to store the KLICSS support files (by default: C:\SERVICES\CDK)
-  # If the default file location is not used, set the name ‘cdkDir’ in EnableChemicalSpreadsheet.xls to point to this directory (<Ctrl F3> to access names in MS Excel)
+  # If the default file location is not used, set the name ‘cdkDir’ in !EnableChemicalSpreadsheet.xls to point to this directory (<Ctrl F3> to access names in MS Excel)
   # Unpack the files in *CDKSSWin.zip* into this directory
   # Download version 1.2.5 of the CDK as a single jar file (*cdk-1.2.5.jar*) into this directory
   # Downoad the jar files for the JChemPaint applet (eg v2.4.0) into this directory
-  # Open *EnableChemicalSpreadsheet.xls* and the spreadsheet you want to enable in MS Excel and select the "Setup Workbook for Structure Display and Substructure Searching" button...
+  # Open *!EnableChemicalSpreadsheet.xls* and the spreadsheet you want to enable in MS Excel and select the "Setup Workbook for Structure Display and Substructure Searching" button...
 
 You might like to have a look at the IntroductoryVideo showing the features of the system and how to use them
 
