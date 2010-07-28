@@ -22,3 +22,5 @@ Navigate to this directory and open the following file in your web browser.
   KLICCS-Enable-SSS.htm
    
 This should start the introductory video.
+
+If the image size of this video is too high for your screen resolution, you can download a [http://code.google.com/p/excel-cdk/downloads/detail?name=KLICCS-Enable-SSS%5BSmall%5D.ZIP&can=2&q= lower resolution version here]
