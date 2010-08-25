@@ -19,4 +19,4 @@ You might like to have a look at the IntroductoryVideo showing the features of t
 
 = Compatability =
 
-The main Excel enabling file, EnableChemicalSpreadsheet.xls was written using MS Excel 2007 for Windows.  It is saved in Excel for Windows, 1997-2003 format.  The system has been tested with Excel 2007 running under Windows Vista and with Excel 2000 and Excel 2003 running under Windows 97
+The main Excel enabling file, {{{EnableChemicalSpreadsheet.xls}}} was written using MS Excel 2007 for Windows.  It is saved in Excel for Windows, 1997-2003 format.  The system has been tested with Excel 2007 running under Windows Vista and with Excel 2000 and Excel 2003 running under Windows 97
