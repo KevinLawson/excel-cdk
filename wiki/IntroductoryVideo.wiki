@@ -3,24 +3,14 @@
 
 = Introduction =
 
-The excel-cdk tools archive (zip) file contains a shockwave-flash (swf) format video file showing some of the capabilities.
+The excel-cdk downloads page has two shockwave-flash (swf) format videos (for different screen resolutions) showing some of the capabilities of the LICSS system.
 
 
 = Details =
 
-Download archive (.zip) file
-Extract to a suitable directory, this creates a subdirectory
+Download LICSS-Video file: LICSS-Video-[Resolution: High/Low].zip
+Extract to a suitable directory and open the following file in your web browser. 
 
-  KLICSS-!SoftwareRelease 
-
-with a further subdiectory 
-
-   v1.0.0
-
-Navigate to this directory and open the following file in your web browser. 
-
-  KLICCS-Enable-SSS.htm
+  LICSS-Demo.htm
    
 This should start the introductory video.
-
-If the image size of this video is too high for your screen resolution, you can download a [http://code.google.com/p/excel-cdk/downloads/detail?name=KLICCS-Enable-SSS%5BSmall%5D.ZIP&can=2&q= lower resolution version here]
