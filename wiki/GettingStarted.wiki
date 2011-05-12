@@ -15,8 +15,9 @@ You might like to have a look at the IntroductoryVideo showing the features of t
 
 = Links =
 [http://sourceforge.net/projects/cdk/files/cdk/1.2.5/cdk-1.2.5.jar/download Version 1.2.5 of the CDK]
+
 [http://sourceforge.net/projects/cdk/files/JChemPaint/2.4.0/jchempaint-applet-2.4.0.zip/download Version 2.4.0 of the J Chem Paint Applet]
 
-= Compatability =
+= Compatibility =
 
 The main Excel enabling file, {{{EnableChemicalSpreadsheet.xls}}} was written using MS Excel 2007 for Windows.  It is saved in Excel for Windows, 1997-2003 format.  The system has been tested with Excel 2007 running under Windows Vista and with Excel 2000 and Excel 2003 running under Windows XP and Windows 7 (64 bit) 
