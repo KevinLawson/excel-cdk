@@ -8,9 +8,9 @@ The excel-cdk downloads page has two shockwave-flash (swf) format videos (for di
 
 = Details =
 
-Download LICSS-Video file: LICSS-Video-[Resolution: High/Low].zip
+Download LICSS-Video file: LICSS-Video-[High/Low].zip
 Extract to a suitable directory and open the following file in your web browser. 
 
-  LICSS-Demo.htm
+  LICSS-Video-[High/Low].htm
    
 This should start the introductory video.
