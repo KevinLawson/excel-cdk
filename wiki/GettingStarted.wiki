@@ -7,7 +7,7 @@ How to get started with the *excel-cdk LICSS System * tools
 
 = Details =
 
-  # Download *LICSS-![Version].zip* and extract the files from it
+  # Download *LICSS-[Version].zip* and extract the files from it
   # Follow the instructions in 'Readme.txt'
   # Open *!EnableChemicalSpreadsheet.xls* and the spreadsheet you want to enable in MS Excel and select the "Setup Workbook for Structure Display and Substructure Searching" button...
 
