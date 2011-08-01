@@ -17,10 +17,8 @@ You might like to have a look at the IntroductoryVideo showing the features of t
 *For version 2.0*
 
 [http://sourceforge.net/projects/cdk/files/cdk/1.4.0/cdk-1.4.0.jar/download Version 1.4.0 of the CDK]
-[http://sourceforge.net/projects/cdk/files/JChemPaint%20%28development%29/3.1.3/jchempaint-3.1.3.jar/download]
-Version 3.1.3 of J Chem Paint
-[https://bitbucket.org/dan2097/opsin/downloads/opsin-1.0.0-jar-with-dependencies.jar]
-Version 1.0.0 of Opsin
+[http://sourceforge.net/projects/cdk/files/JChemPaint%20%28development%29/3.1.3/jchempaint-3.1.3.jar/download Version 3.1.3 of J Chem Paint]
+[https://bitbucket.org/dan2097/opsin/downloads/opsin-1.0.0-jar-with-dependencies.jar Version 1.0.0 of Opsin]
 
 *For version 1.1*
 
@@ -30,4 +28,4 @@ Version 1.0.0 of Opsin
 
 = Compatibility =
 
-The main Excel enabling file, {{{EnableChemicalSpreadsheet.xls}}} was written using MS Excel 2007 for Windows.  It is saved in Excel for Windows, 1997-2003 format.  The system has been tested with Excel 2007 running under Windows Vista and with Excel 2000 and Excel 2003 running under Windows XP and Windows 7 (64 bit) 
+The main Excel enabling file, {{{EnableChemicalSpreadsheet(v#).xls}}} was written using MS Excel 2007 for Windows.  It is saved in Excel for Windows, 1997-2003 format.  The system has been tested with Excel 2007 running under Windows Vista and with Excel 2000 and Excel 2003 running under Windows XP and Windows 7 (64 bit) 
