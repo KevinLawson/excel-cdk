@@ -1,3 +1,4 @@
+#labels Featured
 =New Features of Version 2.0=
 
   * Structures may be displayed/hidden for all visible Smiles strings (in enabled sheets) by toggling with {{{<Ctrl-T>}}}.  This feature is primarily intended to view structures whilst scrolling through the sheet.  Although you do have access to other Excel features while structures are displayed you should normally toggle structure display off before carrying out other operations.  For example, you can display structures correctly with or without filtered columns in place.  However, an attempt to filter whilst structures are being displayed will give problems.  Structures are not stored in the sheet; they are rendered on-the-fly.  Only the last 100 are kept in memory - if you want to print a sheet with structures therefore,  make sure that you have just viewed the structures you wish to print.
