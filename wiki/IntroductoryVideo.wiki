@@ -14,3 +14,5 @@ Extract to a suitable directory and open the following file in your web browser.
   LICSS-Video-[High/Low].htm
    
 This should start the introductory video.
+
+Try this link: http://code.google.com/p/excel-cdk/downloads/detail?name=LICSS-Video-Low.htm&can=2&q=
