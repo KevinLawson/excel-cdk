@@ -8,7 +8,7 @@ How to get started with the *LICSS System*
 = Details =
 
   # Download and run *LICSS-2.1-FullInstaller.exe* 
-  # Open *!EnableChemicalSpreadsheetV2.1.xls* and the spreadsheet you want to enable in MS Excel and select the "Setup Workbook for Structure Display and Substructure Searching" button...
+  # Open *!EnableChemicalSpreadsheetV2.1.xls* (installed on your desktop) and the spreadsheet you want to enable in MS Excel and select the "Setup Workbook for Structure Display and Substructure Searching" button...
 
 You might like to have a look at the IntroductoryVideo showing the features of the system and how to use them (though please note that this was made with version 1.0 and does not show all the more recent features).  Alternatively have a look at the taster video: http://www.screencast.com/t/Oy1cwtO0ht
 
