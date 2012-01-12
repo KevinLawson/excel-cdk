@@ -7,20 +7,12 @@ How to get started with the *LICSS System*
 
 = Details =
 
-  # Download *LICSS-#(version no).zip* and extract the files from it
-  # Follow the instructions in 'Readme.txt'
-  # Open *!EnableChemicalSpreadsheet(version #).xls* and the spreadsheet you want to enable in MS Excel and select the "Setup Workbook for Structure Display and Substructure Searching" button...
+  # Download and run *LICSS-2.1-FullInstaller.exe* 
+  # Open *!EnableChemicalSpreadsheetV2.1.xls* and the spreadsheet you want to enable in MS Excel and select the "Setup Workbook for Structure Display and Substructure Searching" button...
 
-You might like to have a look at the IntroductoryVideo showing the features of the system and how to use them (though please note that this was made with version 1.0 and does not show all the more recent features).
+You might like to have a look at the IntroductoryVideo showing the features of the system and how to use them (though please note that this was made with version 1.0 and does not show all the more recent features).  Alternatively have a look at the taster video: http://www.screencast.com/t/Oy1cwtO0ht
 
-= Links =
-*For version 2.1*
-
-[http://sourceforge.net/projects/cdk/files/cdk/1.4.2/cdk-1.4.2.jar/download Version 1.4.2 of the CDK]
-
-[http://sourceforge.net/projects/cdk/files/JChemPaint%20%28development%29/3.1.3/jchempaint-3.1.3.jar/download Version 3.1.3 of J Chem Paint]
-
-[https://bitbucket.org/dan2097/opsin/downloads/opsin-1.0.0-jar-with-dependencies.jar Version 1.0.0 of Opsin]
+= Links for Previous Version support files =
 
 *For version 2.0*
 
