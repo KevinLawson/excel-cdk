@@ -7,8 +7,9 @@ How to get started with the *LICSS System*
 
 = Details =
 
-  # Download and run *LICSS-2.1-FullInstaller.exe* 
-  # Open *!EnableChemicalSpreadsheetV2.1.xls* (installed on your desktop) and the spreadsheet you want to enable in MS Excel and select the "Setup Workbook for Structure Display and Substructure Searching" button...
+  # Download and run *LICSS-2.2-FullInstaller.exe* 
+  # Open *!EnableChemicalSpreadsheetV2.2.xls* (installed on your desktop) and the spreadsheet you want to enable in MS Excel and select the "Setup Workbook for Structure Display and Substructure Searching" button... (if you get an error such as: "Runtime error '1004': Programmatic access to 
+Visual Basic Project not trusted" take a look at Security Issues below)
 
 You might like to have a look at the IntroductoryVideo showing the features of the system and how to use them (though please note that this was made with version 1.0 and does not show all the more recent features).  Alternatively have a look at the taster video: http://www.screencast.com/t/Oy1cwtO0ht
 
@@ -27,6 +28,10 @@ You might like to have a look at the IntroductoryVideo showing the features of t
 [http://sourceforge.net/projects/cdk/files/cdk/1.2.5/cdk-1.2.5.jar/download Version 1.2.5 of the CDK]
 
 [http://sourceforge.net/projects/cdk/files/JChemPaint/2.4.0/jchempaint-applet-2.4.0.zip/download Version 2.4.0 of the J Chem Paint Applet]
+
+= Security Issues =
+LICSS uses VBA code ('macros') and so needs macros enabled for any LICSS sheet to work.  In addition, if you are enabling your own spreadsheets, then LICSS needs 'Programmatic access to the VBA Project Model' (the ability to create code from VBA).  If you get the error described above ("Runtime error '1004': Programmatic access to Visual Basic Project not trusted") then
+(for Excel 2010) select the Office button (top left), then Excel Options - Trust Center - Trust Center Settings - Macro Settings.  Under Macro Settings, check the box for 'Enable All Macros' and under Developer Macro Settings, check the box for 'Trust access to the VBA project model'.  This will allow LICSS to copy the necessary code to your workbook.  In other versions of Excel the fix is similar (under Excel - Options)
 
 = Compatibility =
 
