@@ -7,7 +7,7 @@ How to get started with the *LICSS System*
 
 = Details =
 
-  # Download and run *LICSS-3.0-FullInstaller.exe* 
+  # Download and run *LICSS-3.1-FullInstaller.exe* 
   # Open the spreadsheet you want to enable in MS Excel and select <Ctrl E>...
 
 You might like to have a look at the IntroductoryVideo showing the features of the system and how to use them (though please note that this was made with version 1.0 and does not show all the more recent features).  Alternatively have a look at the taster video: http://www.screencast.com/t/Oy1cwtO0ht. Note that both these videos feature versions of LICSS in which code is copied to the enabled workbook - the enabling process (with the LICSS AddIn) no longer requires selection of sheets/charts.
