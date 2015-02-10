@@ -1,5 +1,4 @@
 #summary How to access the introductory video for the excel-cdk tools.
-#labels Featured
 
 = Introduction =
 
