@@ -1,4 +1,3 @@
-#labels Featured
 =New Features of Version 2.1=
   * Similarity searching (using CDK Fingerprints)
   * Diverse Compound Picker.  This picks compounds at random from the complete set until a user-set number is reached or until no more picks are possible (if a representative set is required).  Initial picks which fall within a user-set similarity threshold of existing picks are discarded.  Because of the iterative way picks are made, the algorithm is much less memory-hungry than, for example, cluster sampling.
