@@ -1,5 +1,5 @@
 # excel-cdk
-=Introduction=
+##Introduction
 
 The *LICSS System (Excel-CDK)* constructs a bridge between MS Excel for Windows and the Chemistry Development Kit (CDK) Java code tools enabling users to chemically enable existing spreadsheets which contain representations of chemical structures as SMILES strings.
 
@@ -9,10 +9,13 @@ Substructure searching of very large spreadsheets may be speeded up by pre-calcu
 
 The system requires no installation beyond file copying and the full installer exe file will normally run even on 'locked-down' workstations.
 
-=Downloads (Please use link below for the latest downloads)=
-https://drive.google.com/folderview?id=0BxMZMNsy7g3oRkx0Rl9aQUtPSG8&usp=sharing
+## Downloads
+(Please click Releases for the latest full-installer and source code downloads)
 
-=Latest News=
+## Latest News
+*_New (May 2015)_*:
+Project now moved to GitHub. Use the Releases feature to get hold of the latest version (3.2 - Installer and Source Code)
+
 *_New (January 2015)_*:
 Google drive now contains zip file with all the source code for LICSS 3.2 together with build instructions
 
@@ -51,13 +54,13 @@ Version 2.1 of LICSS was released 10 October 2011. This adds Similarity searchin
 
 Version 2.0 of LICSS was released 1 August 2011.  This uses a new method for calls to Java where Java Classes are proxied in a CPP Dll.  This allows very fast access to CDK/J Chem Paint functionality and has made possible on-the-fly visualisation of structures for all visible Smiles strings on a worksheet.  Excel functions to calculate molecular properties (using the new technology) have also been introduced.  Other new features include conversion of IUPAC names to Smiles and automatic LICSS installation for shared workbooks _via_ download from this project site.
 
-=Limitations=
+## Limitations
 LICSS only currently works with 32 bit MS Excel for Windows (although there is no reason why the code could not be adapted for other operating systems).  See also section on compatibility within [GettingStarted].
 
-=Security Errors when using LICSS=
+## Security Errors when using LICSS
 LICSS needs your Excel security settings to be set correctly to allow it to work properly.  If you get a runtime error when trying to use it which appears to be security related then take a look at [GettingStarted].
 
-=Contact=
+## Contact
 You are welcome to contact the developer with issues, suggestions and comments: kevin.lawson@syngenta.com.  Better still, join and post to the new Google Group for the project: [https://groups.google.com/forum/?fromgroups#!forum/licss-users].
 
 New code created by Syngenta Ltd and licensed under GPL v2
