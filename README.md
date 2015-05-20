@@ -1,5 +1,4 @@
 # excel-cdk
-Automatically exported from code.google.com/p/excel-cdk
 =Introduction=
 
 The *LICSS System (Excel-CDK)* constructs a bridge between MS Excel for Windows and the Chemistry Development Kit (CDK) Java code tools enabling users to chemically enable existing spreadsheets which contain representations of chemical structures as SMILES strings.
