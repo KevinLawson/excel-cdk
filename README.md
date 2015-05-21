@@ -10,7 +10,7 @@ Substructure searching of very large spreadsheets may be speeded up by pre-calcu
 The system requires no installation beyond file copying and the full installer exe file will normally run even on 'locked-down' workstations.
 
 ## Downloads
-(Please click Releases for the latest full-installer and source code downloads)
+(Please click Releases for the latest full-installer and source code downloads [https://github.com/KevinLawson/excel-cdk/releases])
 
 ## Latest News
 *_New (May 2015)_*:
