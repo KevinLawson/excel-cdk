@@ -10,7 +10,7 @@ Substructure searching of very large spreadsheets may be speeded up by pre-calcu
 The system requires no installation beyond file copying and the full installer exe file will normally run even on 'locked-down' workstations.
 
 ## Downloads
-(Please click Releases for the latest full-installer and source code downloads [https://github.com/KevinLawson/excel-cdk/releases])
+(Please click [Releases](https://github.com/KevinLawson/excel-cdk/releases) for the latest full-installer and source code downloads
 
 ## Latest News
 *_New (May 2015)_*:
@@ -58,7 +58,7 @@ Version 2.0 of LICSS was released 1 August 2011.  This uses a new method for cal
 LICSS only currently works with 32 bit MS Excel for Windows (although there is no reason why the code could not be adapted for other operating systems).  See also section on compatibility within GettingStarted https://github.com/KevinLawson/excel-cdk/blob/master/wiki/GettingStarted.wiki.
 
 ## Security Errors when using LICSS
-LICSS needs your Excel security settings to be set correctly to allow it to work properly.  If you get a runtime error when trying to use it which appears to be security related then take a look at GettingStarted https://github.com/KevinLawson/excel-cdk/blob/master/wiki/GettingStarted.wiki.
+LICSS needs your Excel security settings to be set correctly to allow it to work properly.  If you get a runtime error when trying to use it which appears to be security related then take a look at [GettingStarted](https://github.com/KevinLawson/excel-cdk/blob/master/wiki/GettingStarted.wiki)
 
 ## Contact
 You are welcome to contact the developer with issues, suggestions and comments: kevin.lawson@syngenta.com.  Better still, join and post to the new Google Group for the project: [https://groups.google.com/forum/?fromgroups#!forum/licss-users].
