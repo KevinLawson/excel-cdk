@@ -55,7 +55,7 @@ Version 2.1 of LICSS was released 10 October 2011. This adds Similarity searchin
 Version 2.0 of LICSS was released 1 August 2011.  This uses a new method for calls to Java where Java Classes are proxied in a CPP Dll.  This allows very fast access to CDK/J Chem Paint functionality and has made possible on-the-fly visualisation of structures for all visible Smiles strings on a worksheet.  Excel functions to calculate molecular properties (using the new technology) have also been introduced.  Other new features include conversion of IUPAC names to Smiles and automatic LICSS installation for shared workbooks _via_ download from this project site.
 
 ## Limitations
-LICSS only currently works with 32 bit MS Excel for Windows (although there is no reason why the code could not be adapted for other operating systems).  See also section on compatibility within [GettingStarted](https://github.com/KevinLawson/excel-cdk/blob/master/wiki/GettingStarted.wiki)
+LICSS only currently works with 32 and 64 bit versions of MS Excel for Windows (although there is no reason why the code could not be adapted for other operating systems).  See also section on compatibility within [GettingStarted](https://github.com/KevinLawson/excel-cdk/blob/master/wiki/GettingStarted.wiki)
 
 ## Security Errors when using LICSS
 LICSS needs your Excel security settings to be set correctly to allow it to work properly.  If you get a runtime error when trying to use it which appears to be security related then take a look at [GettingStarted](https://github.com/KevinLawson/excel-cdk/blob/master/wiki/GettingStarted.wiki)
