@@ -3,7 +3,7 @@
 
 The *LICSS System (Excel-CDK)* constructs a bridge between MS Excel for Windows and the Chemistry Development Kit (CDK) Java code tools enabling users to chemically enable existing spreadsheets which contain representations of chemical structures as SMILES strings.
 
-Once enabled, Excel spreadsheets have easy access to CDK functionality currently (v3.2) including Structure Display, Substructure/Similarity searching, R Group Table creation, Clustering, Diverse Compound Picking, Sammon Projections, Molecular Property calculation, SDF file import/export, Library enumeration and Name to Smiles conversion.  Structure display is activated by directly selecting cells containing SMILES strings but also by mouse hover over chart points charting data from an enabled spreadsheet.  Structures are displayed in a pop-up Java window using CDK/J Chem Paint rendering capabilities.  In version 2.0 onwards, this window may be resized/repositioned by the user and its new setting will be remembered for the current Excel session. Display of *all* structures on enabled worksheets is available as a toggle.
+Once enabled, Excel spreadsheets have easy access to CDK functionality currently (v3.3) including Structure Display, Substructure/Similarity searching, R Group Table creation, Clustering, Diverse Compound Picking, Sammon Projections, Molecular Property calculation, SDF file import/export, Library enumeration and Name to Smiles conversion.  Structure display is activated by directly selecting cells containing SMILES strings but also by mouse hover over chart points charting data from an enabled spreadsheet.  Structures are displayed in a pop-up Java window using CDK/J Chem Paint rendering capabilities.  In version 2.0 onwards, this window may be resized/repositioned by the user and its new setting will be remembered for the current Excel session. Display of *all* structures on enabled worksheets is available as a toggle.
 
 Substructure searching of very large spreadsheets may be speeded up by pre-calculation of CDK fingerprints (which are stored compactly in the sheets as hex strings).  In this way, substructure searching of sheets containing many tens of thousands of structures is eminently feasible (tested with 250k structures).
 
@@ -13,8 +13,11 @@ The system requires no installation beyond file copying and the full installer e
 (Please click [Releases](https://github.com/KevinLawson/excel-cdk/releases) for the latest full-installer and source code downloads
 
 ## Latest News
+*_New (September 2016)_*:
+Development version (3.3.0) released. LICSS 3.3 uses the latest CDK Snapshot (1.5.14) and the latest version of Opsin. Structure rendering now uses the latest CDK rendering classes rather than JChemPaint. Many thanks to John May for making the necessary code changes.
+
 *_New (May 2015)_*:
-Project now moved to GitHub. Use the Releases feature to get hold of the latest version (3.2 - Installer and Source Code)
+Project now moved to GitHub. Use the Releases feature to get hold of the latest version (3.3 - Installer and Source Code [coming soon])
 
 *_New (January 2015)_*:
 Google drive now contains zip file with all the source code for LICSS 3.2 together with build instructions
