@@ -64,6 +64,6 @@ LICSS only currently works with 32 and 64 bit versions of MS Excel for Windows (
 LICSS needs your Excel security settings to be set correctly to allow it to work properly.  If you get a runtime error when trying to use it which appears to be security related then take a look at [GettingStarted](https://github.com/KevinLawson/excel-cdk/blob/master/wiki/GettingStarted.wiki)
 
 ## Contact
-You are welcome to contact the developer with issues, suggestions and comments: kevin.lawson@syngenta.com.  Better still, join and post to the new Google Group for the project: [https://groups.google.com/forum/?fromgroups#!forum/licss-users].
+You are welcome to contact the developer with issues, suggestions and comments: klawson.jh@gmail.com.  Better still, join and post to the Google Group for the project: [https://groups.google.com/forum/?fromgroups#!forum/licss-users].
 
-New code created by Syngenta Ltd and licensed under GPL v2
+New code licensed under GPL v2
