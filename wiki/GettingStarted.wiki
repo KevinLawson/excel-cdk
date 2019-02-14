@@ -34,6 +34,6 @@ LICSS uses VBA code ('macros') and so needs macros enabled for any LICSS sheet t
 
 = Compatibility =
 
-LICSSV3.3.xla was written in 32 bit MS Excel 2013 for Windows. It has been tested with MS Excel 2003 running under Windows XP, with MS Excel 2010 running under Vista and with MS Excel 2013 (32 bit and 64 bit versions) running under both Windows 7, Windows 8 and Windows 10.
+LICSSV3.3.xla was written in 32 bit MS Excel 2013 for Windows. It has been tested with MS Excel 2003 running under Windows XP, with MS Excel 2010 running under Vista and with MS Excel 2013 (32 bit and 64 bit versions) running under Windows 7, Windows 8 and Windows 10.
 
 The main Excel enabling file for versions 2.3 and below, {{{EnableChemicalSpreadsheet(v#).xls}}} was written using MS Excel 2007 for Windows.  It is saved in Excel for Windows, 1997-2003 format.  The system has been tested with Excel 2007 running under Windows Vista and with Excel 2000 and Excel 2003 running under Windows XP and Windows 7 (64 bit) 
