@@ -36,7 +36,8 @@ For Office 365 users there are additional steps after installation needed:
  1) Copy the three DLLs: CdkInterfaceDll.dll, jace.dll and boost_thread.dll
 from C:\Services\LICSS-3.3\lib32 to your SysWOW64 directory (usually
 C:\Windows\SysWOW64; you will need admin privilege to do this)
-2) Copy the 6 jar files in C:\Services\LICSS-3.3 into C:\Windows (ie one level up from the SysWOW64 folder, again you will need admin permission to do this) 
+ 2) Copy the 6 jar files in C:\Services\LICSS-3.3 into C:\Windows (ie one level up from the SysWOW64 folder, again you will need admin permission to do this) 
+
 = Compatibility =
 
 LICSSV3.3.xla was written in 32 bit MS Excel 2013 for Windows. It has been tested with MS Excel 2003 running under Windows XP, with MS Excel 2010 running under Vista and with MS Excel 2013 (32 bit and 64 bit versions) running under Windows 7, Windows 8 and Windows 10.
